@@ -1,0 +1,100 @@
+
+main{
+  display: flex;
+  /* align-items: cent; */
+  width: 80vw;
+  justify-content: center;
+  flex-direction: column;
+}
+
+table{
+width: 80vw;
+align-items: center;
+}
+
+
+tr,td{
+  height: 200px;
+  text-align: center;
+  /* display: flex; */
+  /* border: solid white 0.1px; */
+}
+
+.baselType{
+  width: 70px;
+}
+
+.titlelogo{
+  width: 40vw;
+}
+.main_section{
+  width: 78vw;
+  height: auto;
+  display: flex;
+  /* align-items: center; */
+  justify-content: center;
+}
+
+#main_section_num1{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.main_section_num1_typo{
+  margin: 100px;
+  /* typo */
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 34px;
+  line-height: 1.8;
+  font-weight: 300;
+}
+
+.main_section_num1_ul_li{
+margin-top: 200px;
+}
+
+#main_section_num1_ul_li_num1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* num2 */
+
+#main_section_num1_ul_li_num2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+#main_section_num1_video{
+  width: 104vw;
+  user-select: none;
+  -webkit-user-drag:none;
+  z-index: -5;
+}
+
+/* num3 */
+
+#main_section_num1_ul_li_num3{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+#typo2{
+  top: 200px;
+
+}
+#rhineRiver{
+  width: 40vw;
+}
+
+
+/* mainsection 2 메인섹션2  */
+
+/* #main_section_num1_ul_li_num3{
+} */

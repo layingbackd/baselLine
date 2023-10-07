@@ -1,0 +1,13 @@
+@import "reset.css";
+@import "colorvar.css";
+@import "header.css";
+@import "main.css";
+
+@font-face {
+  font-family: "NewFont-Regular";
+  src: 
+    url("fonts/NewFont-Regular.woff2") format("woff2"),
+    url("fonts/NewFont-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
